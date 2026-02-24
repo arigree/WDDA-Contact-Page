@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/arigree/contact/issues"
   },
-  "homepage": "https://github.com/arigree/contact#readme"
+  "homepage": "https://github.com/arigree/contact#readme",
+  "dependencies": {
+    "98.css": "^0.1.21"
+  }
 }
